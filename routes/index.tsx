@@ -7,6 +7,8 @@ export default function Home() {
     <>
       <Head>
         <title>Nice Curves</title>
+        <meta name="description" content="just a really curvy website" />
+        <link rel="icon" href="./blob.svg"></link>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
